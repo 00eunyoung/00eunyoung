@@ -1,7 +1,7 @@
 <div align=center><h1>📚 STACKS</h1></div>
 
 <div align=center> 
-<img src="https://img.shields.io/badge/ljsby0816@gmail.com-#EA4335?style=for-the-badge&logo=Gmail&logoColor=white">
+<img src="https://img.shields.io/badge/Gmail-#EA4335?style=for-the-badge&logo=Gmail&logoColor=white">
 </div>
 
 <!--
