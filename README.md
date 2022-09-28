@@ -12,9 +12,9 @@
 <img src="https://img.shields.io/badge/ljsby0816@gmail.com-EA4335?style=flat&logo=Gmail&logoColor=white">
 </div>
 
-
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=00eunyoung&show_icons=true&theme=dark)
+<div align=center>
+<img src="https://github-readme-stats.vercel.app/api?username=00eunyoung&show_icons=true&theme=dark">
+</div>
 
 <!--
 **00eunyoung/00eunyoung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
