@@ -10,7 +10,8 @@
 <br>
 <h3 align="center">🍀ME🍀</h3>
 <div align=center>
-<img src="https://img.shields.io/badge/ljsby0816@gmail.com-EA4335?style=flat&logo=Gmail&logoColor=white">
+<a href="ljsby0816@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white"></a>
+<a href="https://samgim-coding.tistory.com/"><img src="https://img.shields.io/badge/Tistory-000000?style=flat&logo=Tistory&logoColor=white"></a>
 </div>
 <br>
 <br>
