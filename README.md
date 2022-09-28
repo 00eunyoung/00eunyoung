@@ -1,5 +1,5 @@
 <div align=center><h1>Eunyoung Kim</h1></div>
-<h3 align="center">💻Stack</h3>
+<h3 align="center">💻Tech Stack💻</h3>
 
 <div align=center>
  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp
@@ -11,6 +11,10 @@
 <div align=center>
 <img src="https://img.shields.io/badge/ljsby0816@gmail.com-EA4335?style=flat&logo=Gmail&logoColor=white">
 </div>
+
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=00eunyoung&show_icons=true&theme=dark)
 
 <!--
 **00eunyoung/00eunyoung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
