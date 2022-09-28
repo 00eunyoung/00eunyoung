@@ -1,7 +1,7 @@
 <div align=center><h1>KIM EUNYOUNG</h1></div>
 
 
-[![Gmail Badge](https://img.shields.io/badge/ljsby0816@gmail.com-#EA4335?style=flat&logo=Gmail&logoColor=white)](mailto:ljsby0816@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/ljsby0816@gmail.com-EA4335?style=flat&logo=Gmail&logoColor=white)](mailto:ljsby0816@gmail.com)
 
 
 <!--
