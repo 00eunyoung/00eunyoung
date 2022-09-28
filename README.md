@@ -1,6 +1,6 @@
 <div align=center><h1>KIM EUNYOUNG</h1></div>
 
-<div align=center)<h3>🍀ME🍀</h3></div>
+<div align=center><h2>🍀ME🍀</h3></div>
 <div align=center>
 <img src="https://img.shields.io/badge/ljsby0816@gmail.com-EA4335?style=flat&logo=Gmail&logoColor=white">
 </div>
