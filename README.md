@@ -1,4 +1,5 @@
 <div align=center><h1>Eunyoung Kim</h1></div>
+<div align=center><img src="https://capsule-render.vercel.app/api?type=waving&color=78e08f&height=300&section=header&text=Eunyoung%20Kim&fontSize=90" /></div>
 <h3 align="center">💻Tech Stack💻</h3>
 
 <div align=center>
