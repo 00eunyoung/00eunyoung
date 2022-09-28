@@ -7,11 +7,13 @@
  <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white"></a>&nbsp
 </div>
 
+<br>
 <h3 align="center">🍀ME🍀</h3>
 <div align=center>
 <img src="https://img.shields.io/badge/ljsby0816@gmail.com-EA4335?style=flat&logo=Gmail&logoColor=white">
 </div>
-
+<br>
+<br>
 <div align=center>
 <img src="https://github-readme-stats.vercel.app/api?username=00eunyoung&show_icons=true&theme=dark">
 </div>
