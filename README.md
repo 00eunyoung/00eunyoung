@@ -1,4 +1,4 @@
-<div align=center><h1>EUNYOUNG KIM</h1></div>
+<div align=center><h1>Eunyoung Kim</h1></div>
 <h3 align="center">💻Stack</h3>
 
 <div align=center>
